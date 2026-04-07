@@ -121,7 +121,7 @@ The system performs real-time classification using trained ML model.
 
 ## 📄 Project Report
 
-📥 [View Full Report](./AICTE%20ME%20-%20Copy_removed.docx)
+📥 [View Full Report](Microsoft_Tecksaksham_Internship_Project_Paper.pdf)
 
 ---
 
